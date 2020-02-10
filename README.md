@@ -22,4 +22,8 @@ Maria has given you data on all standardized test data for the city She want you
 It was discovered that the grades of the 9th graders at Thomas High School have been changed. You must replace the math and reading scores from Thomas High School with "NaN" while leaving the rest of the data unchanged.
 
 ## Challenge Summary
-The change of the data does not effect the analysis as much. Since the data was changed to "NaN", the data now has no effect on the analysis. This further reduces the population size, but does not effect the overall analysis.
+Analysis of the new data shows that:
+- The overall passing percentage for Charter schools decreased from 90 to 87
+- Medium sized schools overall passing percentage also decreased from 91 to 85
+- The overall passing percentage for schools with a spending range per student between $630-644 also saw a decrease from 63 to 56
+- Within Thomas High School, the passing percentage went down significatly from 90 to 65
